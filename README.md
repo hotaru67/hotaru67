@@ -4,7 +4,8 @@
 <br><hr>
 These are my immaculate stats that can't be beaten by anyone
 <br>
-[![Hotaru's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hotaru67)](https://github.com/pranesh-2005/github-readme-stats-fast)i make half a project once every three years, here are my top languages
+[![Hotaru's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hotaru67)](https://github.com/pranesh-2005/github-readme-stats-fast)
+i make half a project once every three years, here are my top languages
 <!-- <br><hr> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotaru67)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hotaru67)](https://github.com/pranesh-2005/github-readme-stats-fast)
